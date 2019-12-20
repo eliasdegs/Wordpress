@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 /**
  * Chargement de feuilles de styles et/ou fichiers javascript
